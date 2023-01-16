@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: laraventa
+        psr4_prefix: laraventa
+        src_path: app
